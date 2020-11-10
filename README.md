@@ -1,7 +1,9 @@
 # learning-git
 I'm learning git
 
-## Subheader
+## making some mistakes...
 
-I hope I git it...did you git it?
+...but I hope to git it...
+
+did you git it?
 
