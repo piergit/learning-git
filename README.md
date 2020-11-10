@@ -1,3 +1,5 @@
+
+
 # learning-git
 I'm learning git
 
@@ -7,3 +9,6 @@ I'm learning git
 
 did you git it?
 
+### trying useful commands
+
+while going
